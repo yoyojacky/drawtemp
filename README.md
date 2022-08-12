@@ -12,4 +12,5 @@ pip3 install -r requirements.txt
 python3 rpi_draw_temp_realtime.py
 ```
 * Have fun.
-
+* Gallery.
+![Figure1](./Figure1.png)
